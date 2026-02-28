@@ -1,4 +1,4 @@
-setwd("~/Dropbox/Derlin KO Metabolomics/metaboanalyst_QEA_Cell/")
+
 
 # ---- Plot MetaboAnalyst QEA results for all contrasts (top 30) ----
 library(readr)
