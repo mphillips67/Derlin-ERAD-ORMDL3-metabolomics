@@ -1,4 +1,4 @@
-setwd("~/Dropbox/Derlin KO Metabolomics")
+
 
 # ---- packages ----
 library(readr)
