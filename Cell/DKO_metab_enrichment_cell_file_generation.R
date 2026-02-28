@@ -1,4 +1,3 @@
-setwd("~/Dropbox/Derlin KO Metabolomics")
 
 
 #load packages
