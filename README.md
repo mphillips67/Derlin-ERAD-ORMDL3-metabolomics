@@ -4,4 +4,3 @@ Scripts used for the manuscript titled “Derlin-mediated ERAD of lipid regulato
 Major input and output files are available through Dryad (DOI: placeholder).
 
 If you have any questions, contact  philmark@oregonstate.edu.
-)
