@@ -1,4 +1,4 @@
-setwd("~/Dropbox/Derlin KO Metabolomics")
+
 
 
 #load packages
@@ -22,7 +22,7 @@ data <- read_tsv(
   name_repair = "minimal"
 )
 
-#subset to only have the cellular extract data
+#subset to only have the media data
 data <- data %>% select(1, contains("Media", ignore.case = FALSE))
 
 ### Data Processing ###
