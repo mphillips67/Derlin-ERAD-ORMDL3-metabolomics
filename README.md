@@ -1,5 +1,5 @@
 # Derlin-ERAD-ORMDL3-metabolomics
-Scripts used for the manuscript titled “Derlin-mediated ERAD of lipid regulator ORMDL3 safeguards mitochondrial function” (DOI: [placeholder](https://doi.org/10.64898/2026.02.27.708653)). Scripts to generate all major metabolomic analyses and figures from the manuscript are included.
+Scripts used for the manuscript titled “Derlin-mediated ERAD of lipid regulator ORMDL3 safeguards mitochondrial function” (DOI: https://doi.org/10.64898/2026.02.27.708653. Scripts to generate all major metabolomic analyses and figures from the manuscript are included.
 
 Raw data files are available through Mendeley Data repository at DOI: 10.17632/x7cdvppxj5.
 
